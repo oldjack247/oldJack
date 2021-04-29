@@ -1,0 +1,46 @@
+﻿  billboard.cpp
+  bullet.cpp
+  camera.cpp
+  effect.cpp
+  enemy.cpp
+  fade.cpp
+  game.cpp
+  gamepad.cpp
+  input.cpp
+  item.cpp
+item.cpp(22): warning C4101: 'pVtx': unreferenced local variable
+  light.cpp
+  main.cpp
+  meshfield.cpp
+  meshwall.cpp
+  model.cpp
+  object.cpp
+  particle.cpp
+  pause.cpp
+  player.cpp
+player.cpp(14): warning C4005: 'SPEEDDOWN': macro redefinition
+  c:\users\student\desktop\03_nguyen dang hung\source\main.h(24): note: see previous definition of 'SPEEDDOWN'
+player.cpp(260): warning C4305: '=': truncation from 'double' to 'float'
+player.cpp(1198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+player.cpp(1218): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+player.cpp(1238): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+player.cpp(1246): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+player.cpp(1463): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+player.cpp(1464): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  polygon.cpp
+  Compiling...
+  ranking.cpp
+  result.cpp
+  score.cpp
+  shadow.cpp
+  sound.cpp
+  title.cpp
+  tutorial.cpp
+  wall.cpp
+  Generating code
+  208 of 211 functions (98.6%) were compiled, the rest were copied from previous compilation.
+    47 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  3DAction001.vcxproj -> C:\Users\student\Desktop\03_Nguyen Dang Hung\Source\3DAction001.exe
+  3DAction001.vcxproj -> C:\Users\student\Desktop\03_Nguyen Dang Hung\Source\3DAction001.pdb (Full PDB)
